@@ -1,0 +1,27 @@
+{
+  "name": "pages-2",
+  "version": "1.0.0",
+  "description": "Practice makes perfect. CRUD with Node.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DCapella/pages-2.git"
+  },
+  "author": "David Capella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DCapella/pages-2/issues"
+  },
+  "homepage": "https://github.com/DCapella/pages-2#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
